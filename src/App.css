@@ -10,3 +10,12 @@
     color: cyan;
 }
 
+.select {
+    font-size: 20px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: #384fde;
+    border: 1px solid white;
+    background: transparent;
+}
